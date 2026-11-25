@@ -6,6 +6,7 @@
     <Project Path="src/Agenda.Infrastructure/Agenda.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/Agenda.ArchitectureTests/Agenda.ArchitectureTests.csproj" />
     <Project Path="tests/Agenda.IntegrationTests/Agenda.IntegrationTests.csproj" />
     <Project Path="tests/Agenda.UnitTests/Agenda.UnitTests.csproj" />
   </Folder>
